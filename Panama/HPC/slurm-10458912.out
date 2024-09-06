@@ -1,0 +1,11 @@
+/software/local/languages/miniforge3/envs/bioconda/bin:/software/spack/linux-rocky8-broadwell/gcc-12.3.0/gcc-12.3.0-vpim/bin:/software/spack/linux-rocky8-broadwell/gcc-12.3.0/binutils-2.42-p6tx/bin:/user/home/rm13819/miniconda3/envs/qiime2-amplicon-2024.5/bin:/user/home/rm13819/miniconda3/condabin:/user/home/rm13819/.local/bin:/user/home/rm13819/bin:/system/steel-stack/slurm/23.11.6/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/lpp/mmfs/bin
+/user/home/rm13819/miniconda3/envs/qiime2-amplicon-2024.5/bin/qiime
+Saved SampleEstimator[Classifier] to: random-forest-classifier_depth/sample_estimator.qza
+Saved FeatureData[Importance] to: random-forest-classifier_depth/feature_importance.qza
+Saved SampleData[ClassifierPredictions] to: random-forest-classifier_depth/predictions.qza
+Saved Visualization to: random-forest-classifier_depth/model_summary.qzv
+Saved Visualization to: random-forest-classifier_depth/accuracy_results.qzv
+Saved SampleData[Probabilities] to: random-forest-classifier_depth/probabilities.qza
+Saved Visualization to: random-forest-classifier_depth/heatmap.qzv
+Saved SampleData[TrueTargets] to: random-forest-classifier_depth/training_targets.qza
+Saved SampleData[TrueTargets] to: random-forest-classifier_depth/test_targets.qza

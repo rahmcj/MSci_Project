@@ -1,0 +1,178 @@
+sample-id	Location	Site layer	Site_layer	Site	Phasic_community	Type	Depth_group_new	Depth_cm	Depth_group_cm	Depth_layer	pH	Na	K	Sulfate	Nitrate	Phosphate	Remove
+st1_1	Panama-South	Mangrove 0-4cm	Mangrove 0 to 30cm	SSPS1	Mangrove	Brackish	0-4cm	1	0_to_30	Acrotelm	6.97	9.8	10.99	2.03	0.03	1.23	
+st1_2	Panama-South	Mangrove 16-30cm	Mangrove 0 to 30cm	SSPS1	Mangrove	Brackish	16-30cm	16	0_to_30	Acrotelm	7.06	24.5	21.08	4.97	0	0.36	
+st1_3	Panama-South	Mangrove 31-60cm	Mangrove 30 to 100cm	SSPS1	Mangrove	Brackish	31-60cm	41	30_to_100	Catotelm	6.24	31.64	30.1	6.96	0	0.66	
+st1_4	Panama-South	Mangrove 90-120cm	Mangrove 100 to 200cm	SSPS1	Mangrove	Brackish	90-120cm	113	100_to_200	Catotelm	5.71	24.37	24.08	5.48	0	0.02	
+st1_5	Panama-South	Mangrove 130-200cm	Mangrove 100 to 200cm	SSPS1	Mangrove	Brackish	130-200cm	136	100_to_200	Catotelm	6.16	21.58	19.9	4.75	0	0.03	
+st1_6	Panama-South	Mangrove 130-200cm	Mangrove 100 to 200cm	SSPS1	Mangrove	Brackish	130-200cm	181	100_to_200	Catotelm	5.76	30.53	22.76	7.81	0	0.02	
+st1_7	Panama-South	Mangrove 130-200cm	Mangrove 100 to 200cm	SSPS1	Mangrove	Brackish	130-200cm	200	100_to_200	Catotelm	5.11	17.91	15.85	7.23	0	0.04	
+st2_1	Panama-South	Mixed forest 0-4cm	Mixed forest 0 to 30cm	SSPS2	Mixed forest	Freshwater	0-4cm	1	0_to_30	Acrotelm	3.73	14.52	3.71	4.36	0.02	0.39	
+st2_2	Panama-South	Mixed forest 5-15cm	Mixed forest 0 to 30cm	SSPS2	Mixed forest	Freshwater	5-15cm	11	0_to_30	Acrotelm	3.94	22.19	6.29	6.75	0.15	0.37	
+st2_3	Panama-South	Mixed forest 16-30cm	Mixed forest 0 to 30cm	SSPS2	Mixed forest	Freshwater	16-30cm	23	0_to_30	Acrotelm	3.93	5.18	1.56	1.6	0.04	0.28	
+st2_4	Panama-South	Mixed forest 31-60cm	Mixed forest 30 to 100cm	SSPS2	Mixed forest	Freshwater	31-60cm	48	30_to_100	Catotelm	3.66	4.61	3.83	2.01	0.04	0.29	
+st2_5	Panama-South	Mixed forest 90-120cm	Mixed forest 30 to 100cm	SSPS2	Mixed forest	Freshwater	90-120cm	98	30_to_100	Catotelm	3.97	4.64	0.42	1.34	0.02	0.01	
+st2_6	Panama-South	Mixed forest 130-200cm	Mixed forest 100 to 200cm	SSPS2	Mixed forest	Freshwater	130-200cm	183	100_to_200	Catotelm	4.2	6.46	0.47	3.6	0.17	0.01	
+st2_7	Panama-South	Mixed forest 130-200cm	Mixed forest 100 to 200cm	SSPS2	Mixed forest	Freshwater	130-200cm	198	100_to_200	Catotelm	4.23	4.94	0.75	1.17	0.02	0.09	
+st4_1	Panama-South	Stunted hardwood 0-4cm	Stunted hardwood 0 to 30cm	SSPS3	Stunted hardwood	Freshwater	0-4cm	1	0_to_30	Acrotelm	4.41	6.51	0.81	4.74	0.13	0.38	
+st4_2	Panama-South	Stunted hardwood 5-15cm	Stunted hardwood 0 to 30cm	SSPS3	Stunted hardwood	Freshwater	5-15cm	12	0_to_30	Acrotelm	4.33	4.65	1.78	1.29	0.04	0.26	
+st4_3	Panama-South	Stunted hardwood 16-30cm	Stunted hardwood 0 to 30cm	SSPS3	Stunted hardwood	Freshwater	16-30cm	23	0_to_30	Acrotelm	4.01	5.45	0.56	1.3	0.08	0.18	
+st4_4	Panama-South	Stunted hardwood 31-60cm	Stunted hardwood 30 to 100cm	SSPS3	Stunted hardwood	Freshwater	31-60cm	48	30_to_100	Catotelm	3.94	3.1	0.45	0.86	0.11	0.25	
+st4_5	Panama-South	Stunted hardwood 90-120cm	Stunted hardwood 30 to 100cm	SSPS3	Stunted hardwood	Freshwater	90-120cm	98	30_to_100	Catotelm	4.09	5.3	0.86	3.46	0.54	0.08	
+st4_6	Panama-South	Stunted hardwood 130-200cm	Stunted hardwood 100 to 200cm	SSPS3	Stunted hardwood	Freshwater	130-200cm	183	100_to_200	Catotelm	5.16	5.67	0.36	1.26	0	0.12	
+st4_7	Panama-South	Stunted hardwood 130-200cm	Stunted hardwood 100 to 200cm	SSPS3	Stunted hardwood	Freshwater	130-200cm	198	100_to_200	Catotelm	5.37	4.13	0.42	0.86	0.11	0.06	
+st5_1	Panama-South	Sawgrass to 0-4cm	Sawgrass 0 to 30cm	SSPS4	Sawgrass	Freshwater	0-4cm	2	0_to_30	Acrotelm	4.11	11.92	1.6	0.47	0.01	0	
+st5_2	Panama-South	Sawgrass to 5-15cm	Sawgrass 0 to 30cm	SSPS4	Sawgrass	Freshwater	5-15cm	12	0_to_30	Acrotelm	4.23	5.57	0.7	0.54	0.01	0.16	
+st5_3	Panama-South	Sawgrass to 16-30cm	Sawgrass 0 to 30cm	SSPS4	Sawgrass	Freshwater	16-30cm	23	0_to_30	Acrotelm	4.16	5.34	0.19	0.5	0.03	0	
+st5_4	Panama-South	Sawgrass to 31-60cm	Sawgrass 30 to 100cm	SSPS4	Sawgrass	Freshwater	31-60cm	53	30_to_100	Catotelm	3.7	5.43	0.21	1.05	0.09	0.08	
+st5_5	Panama-South	Sawgrass to 90-120cm	Sawgrass 30 to 100cm	SSPS4	Sawgrass	Freshwater	90-120cm	93	30_to_100	Catotelm	3.6	7.65	0.59	1.7	0.01	1.6	
+st5_6	Panama-South	Sawgrass to 130-200cm	Sawgrass 100 to 200cm	SSPS4	Sawgrass	Freshwater	130-200cm	132	100_to_200	Catotelm	4.12	6.9	0.54	1.2	0.02	1.3	
+st5_7	Panama-South	Sawgrass to 130-200cm	Sawgrass 100 to 200cm	SSPS4	Sawgrass	Freshwater	130-200cm	198	100_to_200	Catotelm	4.4	4.31	0.28	0.41	0.08	1.5	
+SRR5311955	Panama-North	Bog 0-4cm	Bog 0-4cm	9	Bog	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311956	Panama-North	Bog 0-4cm	Bog 0-4cm	9	Bog	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311957	Panama-North	Bog 0-4cm	Bog 0-4cm	9	Bog	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311958	Panama-North	Campnosperma 0-4cm	Campnosperma 0-4cm	8	Campnosperma	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311959	Panama-North	Campnosperma 0-4cm	Campnosperma 0-4cm	8	Campnosperma	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311960	Panama-North	Campnosperma 0-4cm		8	Campnosperma	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311961	Panama-North	Campnosperma 0-4cm		7	Campnosperma	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311962	Panama-North	Campnosperma 0-4cm		7	Campnosperma	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311963	Panama-North	Campnosperma 0-4cm		7	Campnosperma	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311964	Panama-North	Campnosperma 0-4cm		6	Campnosperma	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311965	Panama-North	Campnosperma 0-4cm		6	Campnosperma	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311966	Panama-North	Campnosperma 0-4cm		6	Campnosperma	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311967	Panama-North	Mixed forest 0-4cm		5	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311968	Panama-North	Mixed forest 0-4cm		5	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311969	Panama-North	Mixed forest 0-4cm		5	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311970	Panama-North	Mixed forest 0-4cm		4	Mixed forest	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311971	Panama-North	Mixed forest 0-4cm		4	Mixed forest	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311972	Panama-North	Mixed forest 0-4cm		4	Mixed forest	Freshwater	0-4cm		0-4cm		3.7						
+SRR5311973	Panama-North	Mixed forest 0-4cm		3	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311974	Panama-North	Mixed forest 0-4cm		3	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311975	Panama-North	Mixed forest 0-4cm		3	Mixed forest	Freshwater	0-4cm		0-4cm		3.9						
+SRR5311976	Panama-North	Raphia 0-4cm		2	Raphia	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311977	Panama-North	Raphia 0-4cm		2	Raphia	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311978	Panama-North	Raphia 0-4cm		2	Raphia	Freshwater	0-4cm		0-4cm		3.8						
+SRR5311979	Panama-North	Raphia 0-4cm		1	Raphia	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311980	Panama-North	Raphia 0-4cm		1	Raphia	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311981	Panama-North	Raphia 0-4cm		1	Raphia	Freshwater	0-4cm		0-4cm		3.6						
+SRR5311982	Panama-North	Bog 4-8cm		9	Bog	Freshwater	4-8cm		4-8cm		3.6						
+SRR5311983	Panama-North	Bog 4-8cm		9	Bog	Freshwater	4-8cm		4-8cm		3.6						
+SRR5311984	Panama-North	Bog 4-8cm		9	Bog	Freshwater	4-8cm		4-8cm		3.6						
+SRR5311985	Panama-North	Bog 16-30cm		9	Bog	Freshwater	16-30cm		24-30cm		3.6						
+SRR5311986	Panama-North	Bog 4-8cm		9	Bog	Freshwater	4-8cm		4-8cm		3.6						
+SRR5311987	Panama-North	Bog 16-30cm		9	Bog	Freshwater	16-30cm		24-30cm		3.6						
+SRR5311988	Panama-North	Campnosperma 4-8cm		8	Campnosperma	Freshwater	4-8cm		4-8cm		3.8						
+SRR5311989	Panama-North	Campnosperma 4-8cm		8	Campnosperma	Freshwater	4-8cm		4-8cm		3.8						
+SRR5311990	Panama-North	Campnosperma 4-8cm		8	Campnosperma	Freshwater	4-8cm		4-8cm		3.8						
+SRR5311991	Panama-North	Campnosperma 16-30cm		8	Campnosperma	Freshwater	16-30cm		24-30cm		3.8						
+SRR5311992	Panama-North	Campnosperma 4-8cm		8	Campnosperma	Freshwater	4-8cm		4-8cm		3.8						
+SRR5311993	Panama-North	Campnosperma 16-30cm		8	Campnosperma	Freshwater	16-30cm		24-30cm		3.8						
+SRR5311994	Panama-North	Campnosperma 4-8cm		7	Campnosperma	Freshwater	4-8cm		4-8cm		3.7						
+SRR5311995	Panama-North	Campnosperma 4-8cm		7	Campnosperma	Freshwater	4-8cm		4-8cm		3.7						
+SRR5311996	Panama-North	Campnosperma 4-8cm		7	Campnosperma	Freshwater	4-8cm		4-8cm		3.7						
+SRR5311997	Panama-North	Campnosperma 16-30cm		7	Campnosperma	Freshwater	16-30cm		24-30cm		3.7						
+SRR5311998	Panama-North	Campnosperma 16-30cm		7	Campnosperma	Freshwater	16-30cm		24-30cm		3.7						
+SRR5311999	Panama-North	Campnosperma 4-8cm		6	Campnosperma	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312000	Panama-North	Campnosperma 4-8cm		6	Campnosperma	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312001	Panama-North	Campnosperma 4-8cm		6	Campnosperma	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312002	Panama-North	Campnosperma 16-30cm		6	Campnosperma	Freshwater	16-30cm		24-30cm		3.6						
+SRR5312003	Panama-North	Campnosperma 4-8cm		6	Campnosperma	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312004	Panama-North	Campnosperma 16-30cm		6	Campnosperma	Freshwater	16-30cm		24-30cm		3.6						
+SRR5312005	Panama-North	Mixed forest 4-8cm		5	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312006	Panama-North	Mixed forest 4-8cm		5	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312007	Panama-North	Mixed forest 4-8cm		5	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312008	Panama-North	Mixed forest 16-30cm		5	Mixed forest	Freshwater	16-30cm		24-30cm		3.9						
+SRR5312009	Panama-North	Mixed forest 4-8cm		5	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312010	Panama-North	Mixed forest 16-30cm		5	Mixed forest	Freshwater	16-30cm		24-30cm		3.9						
+SRR5312011	Panama-North	Mixed forest 4-8cm		4	Mixed forest	Freshwater	4-8cm		4-8cm		3.7						
+SRR5312012	Panama-North	Mixed forest 4-8cm		4	Mixed forest	Freshwater	4-8cm		4-8cm		3.7						
+SRR5312013	Panama-North	Mixed forest 4-8cm		4	Mixed forest	Freshwater	4-8cm		4-8cm		3.7						
+SRR5312014	Panama-North	Mixed forest 16-30cm		4	Mixed forest	Freshwater	16-30cm		24-30cm		3.7						
+SRR5312015	Panama-North	Mixed forest 4-8cm		4	Mixed forest	Freshwater	4-8cm		4-8cm		3.7						
+SRR5312016	Panama-North	Mixed forest 16-30cm		4	Mixed forest	Freshwater	16-30cm		24-30cm		3.7						
+SRR5312017	Panama-North	Mixed forest 4-8cm		3	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312018	Panama-North	Mixed forest 4-8cm		3	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312019	Panama-North	Mixed forest 4-8cm		3	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312020	Panama-North	Mixed forest 16-30cm		3	Mixed forest	Freshwater	16-30cm		24-30cm		3.9						
+SRR5312021	Panama-North	Mixed forest 4-8cm		3	Mixed forest	Freshwater	4-8cm		4-8cm		3.9						
+SRR5312022	Panama-North	Mixed forest 16-30cm		3	Mixed forest	Freshwater	16-30cm		24-30cm		3.9						
+SRR5312023	Panama-North	Raphia 4-8cm		2	Raphia	Freshwater	4-8cm		4-8cm		3.8						
+SRR5312024	Panama-North	Raphia 4-8cm		2	Raphia	Freshwater	4-8cm		4-8cm		3.8						
+SRR5312025	Panama-North	Raphia 4-8cm		2	Raphia	Freshwater	4-8cm		4-8cm		3.8						
+SRR5312026	Panama-North	Raphia 16-30cm		2	Raphia	Freshwater	16-30cm		24-30cm		3.8						
+SRR5312027	Panama-North	Raphia 4-8cm		2	Raphia	Freshwater	4-8cm		4-8cm		3.8						
+SRR5312028	Panama-North	Raphia 16-30cm		2	Raphia	Freshwater	16-30cm		24-30cm		3.8						
+SRR5312029	Panama-North	Raphia 4-8cm		1	Raphia	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312030	Panama-North	Raphia 4-8cm		1	Raphia	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312031	Panama-North	Raphia 4-8cm		1	Raphia	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312032	Panama-North	Raphia 16-30cm		1	Raphia	Freshwater	16-30cm		24-30cm		3.6						
+SRR5312033	Panama-North	Raphia 4-8cm		1	Raphia	Freshwater	4-8cm		4-8cm		3.6						
+SRR5312034	Panama-North	Raphia 16-30cm		1	Raphia	Freshwater	16-30cm		24-30cm		3.6						
+ERR2094394	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094395	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094396	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094397	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094398	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094399	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094400	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094401	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094402	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094403	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094404	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094405	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094406	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094407	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094408	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094409	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094410	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094411	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094412	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094413	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094414	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094415	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094416	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094417	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094418	Malaysia-Selangor	Eleiodoxa conferta 0-4cm		Malaysia	Eleiodoxa conferta	Freshwater	0-4cm	0			3.41						
+ERR2094419	Malaysia-Selangor	Eleiodoxa conferta 31-60cm		Malaysia	Eleiodoxa conferta	Freshwater	31-60cm	45			3.29						
+ERR2094420	Malaysia-Selangor	Eleiodoxa conferta 90-120cm		Malaysia	Eleiodoxa conferta	Freshwater	90-120cm	90			3.35						
+ERR2094421	Malaysia-Selangor	Koompassia malaccensis 0-4cm		Malaysia	Koompassia malaccensis	Freshwater	0-4cm	0			3.62						
+ERR2094422	Malaysia-Selangor	Koompassia malaccensis 31-60cm		Malaysia	Koompassia malaccensis	Freshwater	31-60cm	45			3.62						
+ERR2094423	Malaysia-Selangor	Koompassia malaccensis 90-120cm		Malaysia	Koompassia malaccensis	Freshwater	90-120cm	90			3.43						
+ERR2094424	Malaysia-Selangor	Koompassia malaccensis 0-4cm		Malaysia	Koompassia malaccensis	Freshwater	0-4cm	0			3.62						
+ERR2094425	Malaysia-Selangor	Koompassia malaccensis 31-60cm		Malaysia	Koompassia malaccensis	Freshwater	31-60cm	45			3.62						
+ERR2094426	Malaysia-Selangor	Koompassia malaccensis 90-120cm		Malaysia	Koompassia malaccensis	Freshwater	90-120cm	90			3.43						
+ERR2094427	Malaysia-Selangor	Koompassia malaccensis 0-4cm		Malaysia	Koompassia malaccensis	Freshwater	0-4cm	0			3.62						
+ERR2094428	Malaysia-Selangor	Koompassia malaccensis 31-60cm		Malaysia	Koompassia malaccensis	Freshwater	31-60cm	45			3.62						
+ERR2094429	Malaysia-Selangor	Koompassia malaccensis 90-120cm		Malaysia	Koompassia malaccensis	Freshwater	90-120cm	90			3.43						
+ERR2094430	Malaysia-Selangor	Koompassia malaccensis 0-4cm		Malaysia	Koompassia malaccensis	Freshwater	0-4cm	0			3.62						
+ERR2094431	Malaysia-Selangor	Koompassia malaccensis 31-60cm		Malaysia	Koompassia malaccensis	Freshwater	31-60cm	45			3.62						
+ERR2094432	Malaysia-Selangor	Koompassia malaccensis 90-120cm		Malaysia	Koompassia malaccensis	Freshwater	90-120cm	90			3.43						
+ERR2094433	Malaysia-Selangor	Koompassia malaccensis 0-4cm		Malaysia	Koompassia malaccensis	Freshwater	0-4cm	0			3.62						
+ERR2094434	Malaysia-Selangor	Koompassia malaccensis 31-60cm		Malaysia	Koompassia malaccensis	Freshwater	31-60cm	45			3.62						
+ERR2094435	Malaysia-Selangor	Koompassia malaccensis 90-120cm		Malaysia	Koompassia malaccensis	Freshwater	90-120cm	90			3.43						
+ERR2094436	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094437	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094438	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094439	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094440	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094441	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094442	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094443	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094444	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094445	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094446	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094447	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094448	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094449	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094450	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094451	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094452	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094453	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094454	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094455	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094456	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094457	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094458	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094459	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
+ERR2094460	Malaysia-Selangor	Rubroshorea uliginosa 0-4cm		Malaysia	Rubroshorea uliginosa	Freshwater	0-4cm	0			3.41						
+ERR2094461	Malaysia-Selangor	Rubroshorea uliginosa 31-60cm		Malaysia	Rubroshorea uliginosa	Freshwater	31-60cm	45			3.51						
+ERR2094462	Malaysia-Selangor	Rubroshorea uliginosa 90-120cm		Malaysia	Rubroshorea uliginosa	Freshwater	90-120cm	90			3.36						
